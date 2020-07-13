@@ -13,9 +13,3 @@
 # only came when he finally accepted his fate. 
 
 </div>
-
-<div align="center">
-  <div style="float: left; width: 33.33%; background: red;">1</div>
-  <div style="float: left; width: 33.33%; background: green;">2</div>
-  <div style="float: right; width: 33.33%; background: blue;">3</div>
-</div>
