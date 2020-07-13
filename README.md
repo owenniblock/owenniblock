@@ -8,7 +8,7 @@
 
 ### musician, geek, poet, father or (full-time) weirdo 8-)
 
-## it turned out he was all six, but that sort of self awareness
+## it turned out he was all 6, but that sort of awareness
 
 # only came when he finally accepted his fate. 
 
