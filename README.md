@@ -59,6 +59,6 @@ interestingLinks.Add('Twitch', 'https://twitch.tv/6pyx')
 
 <a href="https://textart4u.blogspot.com/2014/06/transformers-autobot-symbol-copy-paste.html">>ASCII Artwork by TextArt4U</a>
 
-_ᴵ ᶠᶦᵍʰᵗ ᶠᵒʳ ᵗʰᵉ ᵘˢᵉʳˢ_
+_ɪ ғɪɢʜᴛ ғᴏʀ ᴛʜᴇ ᴜsᴇʀs_
 
 </div>
