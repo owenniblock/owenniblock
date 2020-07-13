@@ -2,7 +2,7 @@
   
 ###### A long time ago in a galaxy far far away a developer
 
-##### named Owen Niblock battled with dark & unknown forces
+##### named Owen Niblock battled with dark, unknown forces
 
 #### (bugs) while he tried to work out if he was a comedian,
 
