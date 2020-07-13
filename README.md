@@ -55,7 +55,8 @@ interestingLinks.Add('Twitch', 'https://twitch.tv/6pyx')
 ──────▀█─███─▄▄▄▄▄─███─█▀──────
 ─────────▀█▌▐█████▌▐█▀─────────
 ────────────███████────────────
-────[>Artwork by TextArt4U](https://textart4u.blogspot.com/2014/06/transformers-autobot-symbol-copy-paste.html)────
 ```
+
+<a href="https://textart4u.blogspot.com/2014/06/transformers-autobot-symbol-copy-paste.html">>Artwork by TextArt4U</a>
 
 </div>
