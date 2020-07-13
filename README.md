@@ -2,14 +2,14 @@
   
 ###### A long time ago in a galaxy far far away a developer
 
-##### called Owen Niblock battled with unknown (but dark)
+##### named Owen Niblock battled with dark & unknown forces
 
-#### forces while he tried to work out if he was a comedian,
+#### (bugs) while he tried to work out if he was a comedian,
 
-### musician, geek or weirdo (full-time)
+### musician, geek, poet, father or (full-time) weirdo 8-)
 
-## it turned out he was 
+## it turned out he was all six, but that sort of self 
 
-# all 4...
+# awareness only came when he finally accepted his fate. 
 
 </div>
