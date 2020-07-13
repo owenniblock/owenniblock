@@ -16,14 +16,22 @@
 
 TODO:
 
-- [ ] Write a profile README
-- [ ] Add in all the things I do (with links!)
-- [ ] Put in some exciting code :joy:
-- [ ] Make sure to include some geeky references?
-- [ ] Add a sprinkling of emoji / emotes / emoticons / decepticons :decepticon:
+- [x] Write a profile README
+- [x] Add in all the things I do (with links!)
+- [x] Put in some exciting code snippets :joy:
+- [x] Make sure to include some geeky references?
+- [x] Add a sprinkling of emoji / emotes / emoticons / decepticons
+- [ ] Write some actual code
 
 <div align="center">
-  
+
+```javascript
+// Interesting Links
+
+interestingLinks.Add('Twitter', 'https://twitter.com/owenniblock')
+interestingLinks.Add('Twitch', 'https://twitch.tv/6pyx')
+```
+
 ```
 ───────────▄▄▄▄▄▄▄▄▄───────────
 ────────▄█████████████▄────────
@@ -47,6 +55,7 @@ TODO:
 ──────▀█─███─▄▄▄▄▄─███─█▀──────
 ─────────▀█▌▐█████▌▐█▀─────────
 ────────────███████────────────
+────[>Artwork by TextArt4U](https://textart4u.blogspot.com/2014/06/transformers-autobot-symbol-copy-paste.html)────
 ```
 
 </div>
