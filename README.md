@@ -14,8 +14,8 @@ TODO:
 - [x] Add a sprinkling of emoji / emotes / emoticons / decepticons
 - [ ] Write some actual code
 
-[Twitter](https://twitter.com/owenniblock)
-[Twitch](https://twitch.tv/6pyx)
+- [Twitter](https://twitter.com/owenniblock)
+- [Twitch](https://twitch.tv/6pyx)
 
 _I fight for the users_
 
