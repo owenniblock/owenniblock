@@ -9,7 +9,6 @@ I got this template from @matthewmccullough's wonderful [human interaction templ
 * I love cats (I have two black cats: Frodo and Beorn)
 * I read a lot, especially fantasy and sci-fi (hence the cats names)
 * I'm autistic and proud :yay:
-* I am filled with feeling of inadequacy if there are team meetings that I can't make because of timezones or my out of work schedule
 	
 ### What makes you angry? :hulk:
 * Lying and unfairness
@@ -23,7 +22,7 @@ I got this template from @matthewmccullough's wonderful [human interaction templ
 * I (and the family) make up songs to the tunes of classic soundtracks
 		
 ### What are some things that people might misunderstand about you that you should clarify?
-* I work late on a Monday and Wednesday and like it. It's a good time to schedule a call with me (esp 9-10pm UK time)
+* Sometimes I work late on a Monday and do stuff with my daughter in the day
 * I'm an extroverted introvert (an ambivert): introverted in a social environment but I like to perform and be the center of attention on my own terms
 * I can appear direct and am very honest but underneath I am kind and empathic (where-ever possible)
 
